@@ -2,7 +2,7 @@
 
 A collection of notes I've made as I've learned things about stuff.
 
-## Topics
+### Topics
 
 - [Topics](#topics)
 - [SWIG](#swig)
@@ -10,13 +10,13 @@ A collection of notes I've made as I've learned things about stuff.
 
 ---
 
-## SWIG
+### SWIG
 
 - [What is SWIG?](swig/what-is-swig.md)
 - [Basic SWIG](swig/basic-swig.md)
 - [Memory leaks in SWIG generated code](swig/memory-leaks.md)
 - [SWIG and Go don't Go](swig/swig-and-go-dont-go.md)
 
-## Generated Code
+### Generated Code
 
 - [To commit or to not commit](generated-code/to-commit-or-to-not-commit.md)
