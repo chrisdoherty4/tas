@@ -7,6 +7,7 @@ A collection of notes I've made as I've learned things about stuff.
 - [SWIG](#swig)
 - [Generated Code](#generated-code)
 - [Gitlab](#gitlab)
+- [Go](#go)
 
 ---
 
@@ -24,3 +25,7 @@ A collection of notes I've made as I've learned things about stuff.
 ### Gitlab
 
 - [Deploy tokens](gitlab/deploy-tokens.md)
+
+### Go
+
+- [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
