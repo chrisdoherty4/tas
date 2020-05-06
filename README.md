@@ -13,3 +13,4 @@ A collection of notes I've made as I've learned things about stuff.
 - [What is SWIG?](swig/what-is-swig.md)
 - [Basic SWIG](swig/basic-swig.md)
 - [Memory leaks in SWIG generated code](swig/memory-leaks.md)
+- [SWIG and Go don't Go](swig/swig-and-go-dont-go.md)
