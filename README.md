@@ -31,6 +31,8 @@ A collection of things I've learned.
 
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
 - [Preventing shared slice data overwrites](go/preventing-shared-slice-data-overwrites.md)
+- [Finding documentation for previous go versions](go/finding-documentation-for-previous-go-version.md)
+- [`runtime.NumCPU()` returns logical processor count](go/numcpu-returns-logical-processor-count.md)
 
 ### Github
 
