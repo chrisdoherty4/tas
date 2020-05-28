@@ -1,4 +1,4 @@
-# 📚 Things I Learned (TIL)
+# 📚 Today I Learned (TIL)
 
 A collection of things I've learned.
 
