@@ -3,7 +3,9 @@
 https://stackoverflow.com/questions/27775376/value-receiver-vs-pointer-receiver
 
 > If the receiver is a map, func or chan, don't use a pointer to it.
+>
 > If the receiver is a slice and the method doesn't reslice or reallocate the slice, don't use a pointer to it.
+>
 > If the method needs to mutate the receiver, the receiver must be a pointer.
 > If the receiver is a struct that contains a sync.Mutex or similar synchronizing field, the receiver must be a pointer to avoid copying.
 > If the receiver is a large struct or array, a pointer receiver is more efficient. How large is large? Assume it's equivalent to passing all its elements as arguments to the method. If that feels too large, it's also too large for the receiver.
