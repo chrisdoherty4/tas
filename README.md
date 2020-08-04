@@ -22,6 +22,7 @@ A collection of things I've learned.
 ### C
 
 - [Use of unsigned ints](c/use-of-unsigned-ints.md)
+- [Casting functions](c/casting-functions.md)
 
 ### Docker
 
